@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/03/28 14:32:06.592,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/28 14:33:05.099,D:\Delphi\Basic Course\Criando uma Agenda de Contatos\unitPrincipal.dfm=D:\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/03/28 14:33:05.099,D:\Delphi\Basic Course\Criando uma Agenda de Contatos\unitPrincipal.pas=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/28 14:33:20.444,D:\Delphi\Basic Course\Criando uma Agenda de Contatos\Agenda.dproj=D:\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/03/28 14:35:55.224,=D:\Delphi\Basic Course\Criando uma Agenda de Contatos\Unit1.pas</Transaction>
+    <Transaction>2023/03/28 14:36:52.297,D:\Delphi\Basic Course\Criando uma Agenda de Contatos\unitDM.dfm=D:\Delphi\Basic Course\Criando uma Agenda de Contatos\Unit1.dfm</Transaction>
+    <Transaction>2023/03/28 14:36:52.297,D:\Delphi\Basic Course\Criando uma Agenda de Contatos\unitDM.pas=D:\Delphi\Basic Course\Criando uma Agenda de Contatos\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
